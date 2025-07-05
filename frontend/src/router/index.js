@@ -1,5 +1,7 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import { createRouter, createWebHistory } from 'vue-router';
+import CyclingHomeView from '../views/CyclingHomeView.vue'; // New cycling home page
+import CathedralQuarter from '../views/CathedralQuarter.vue'; // Direct Cathedral Quarter view
+import BusStation from '../views/BusStation.vue';           // Direct Bus Station view
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -7,17 +9,20 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      component: HomeView,
+      component: CyclingHomeView // Set the cycling view as the default home page
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (About.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import('../views/AboutView.vue'),
+      path: '/cq',
+      name: 'cathedralQuarter',
+      component: CathedralQuarter // Direct link to Cathedral Quarter
     },
-  ],
-})
+    {
+      path: '/bs',
+      name: 'busStation',
+      component: BusStation // Direct link to Bus Station
+    }
+    // You can add more routes here if needed in the future
+  ]
+});
 
-export default router
+export default router;

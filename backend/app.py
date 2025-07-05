@@ -103,7 +103,7 @@ bus_station_request =   {
     }
 }
 
-normal_stops = {
+cathedral_quarter_request = {
     '109000009334':{},
     '1090DDVS1302':{},
     '1090DDVS1224':{},
@@ -123,7 +123,7 @@ def get_departures(stops_request = None):
 
     # --- Sets default stops for function if none are specified ---
     if stops_request is None:
-        stops_request = normal_stops
+        stops_request = cathedral_quarter_request
 
     stops_request_data = {}
 
@@ -247,21 +247,32 @@ def get_departures(stops_request = None):
                             except IndexError:
                                 pass
 
-                            if datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_scheduled'],'%x %H:%M').astimezone() > nowLocal():
-                                departure['page_scheduled_dt'] = datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_scheduled'],'%x %H:%M').astimezone()
-                            elif datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_scheduled'],'%x %H:%M').astimezone() > nowLocal()-datetime.timedelta(hours=12):
-                                departure['page_scheduled_dt'] = datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_scheduled'],'%x %H:%M').astimezone()
+                            # NEW: Revised logic for page_scheduled_dt to handle day rollover
+                            scheduled_dt_today = datetime.datetime.strptime(
+                                nowLocal().strftime('%Y-%m-%d ') + departure['page_scheduled'],
+                                '%Y-%m-%d %H:%M'
+                            ).astimezone()
+
+                            if scheduled_dt_today < nowLocal():
+                                departure['page_scheduled_dt'] = scheduled_dt_today + datetime.timedelta(days=1)
                             else:
-                                departure['page_scheduled_dt'] = datetime.datetime.strptime((nowLocal()+datetime.timedelta(days=1)).strftime('%x ')+departure['page_scheduled'],'%x %H:%M').astimezone()
+                                departure['page_scheduled_dt'] = scheduled_dt_today
+
+                            # NEW: Revised logic for page_expected_dt to handle day rollover
                             try:
-                                if datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_expected'],'%x %H:%M').astimezone() > nowLocal():
-                                    departure['page_expected_dt'] = datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_expected'],'%x %H:%M').astimezone()
-                                elif datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_expected'],'%x %H:%M').astimezone() > nowLocal()-datetime.timedelta(hours=12):
-                                    departure['page_expected_dt'] = datetime.datetime.strptime(nowLocal().strftime('%x ')+departure['page_expected'],'%x %H:%M').astimezone()
+                                expected_dt_today = datetime.datetime.strptime(
+                                    nowLocal().strftime('%Y-%m-%d ') + departure['page_expected'],
+                                    '%Y-%m-%d %H:%M'
+                                ).astimezone()
+
+                                if expected_dt_today < nowLocal():
+                                    departure['page_expected_dt'] = expected_dt_today + datetime.timedelta(days=1)
                                 else:
-                                    departure['page_expected_dt'] = datetime.datetime.strptime((nowLocal()+datetime.timedelta(days=1)).strftime('%x ')+departure['page_expected'],'%x %H:%M').astimezone()
+                                    departure['page_expected_dt'] = expected_dt_today
                             except (TypeError, KeyError, ValueError):
+                                # If expected time is missing or invalid, default to scheduled time (already correctly dated)
                                 departure['page_expected_dt'] = departure['page_scheduled_dt']
+
 
                             timing_points_list = list(filter(lambda d: d['timing_status'] in ['PTP'], departure['trip']['times']))
                             timing_points_data = {}
@@ -292,6 +303,9 @@ def get_departures(stops_request = None):
                                     except KeyError:
                                         pass
                                 try:
+                                    # This logic for 'aimed_departure_time_dt' and 'aimed_arrival_time_dt' should also be updated
+                                    # to use the new more robust date assignment to be consistent.
+                                    # For now, it's not the primary concern for the main departure list sorting.
                                     if datetime.datetime.strptime(nowLocal().strftime('%x ')+tp['aimed_departure_time'],'%x %H:%M').astimezone() > nowLocal():
                                         tp['aimed_departure_time_dt'] = datetime.datetime.strptime(nowLocal().strftime('%x ')+tp['aimed_departure_time'],'%x %H:%M').astimezone()
                                     elif datetime.datetime.strptime(nowLocal().strftime('%x ')+tp['aimed_departure_time'],'%x %H:%M').astimezone() > nowLocal()-datetime.timedelta(hours=12):
@@ -431,7 +445,17 @@ def get_departures(stops_request = None):
 
         }
         departures_summary.append(departure)
-    departures_summary = sorted(departures_summary, key=lambda x: (x['expected_dt']))
+
+    # NEW: Filter out departures where expected_dt is too far in the past
+    current_time = nowLocal()
+    filtered_departures_summary = []
+    for departure in departures_summary:
+        # If the expected time is more than 5 minutes in the past, don't show it.
+        # This removes buses that have already departed or are severely delayed past relevance.
+        if departure['expected_dt'] >= (current_time - datetime.timedelta(minutes=5)):
+            filtered_departures_summary.append(departure)
+
+    departures_summary = sorted(filtered_departures_summary, key=lambda x: (x['expected_dt']))
 
     with open('_data/departures full.json',"w", encoding="utf-8") as f:
         f.write(json.dumps(departures_full_data, indent=4, default=str))
@@ -450,7 +474,7 @@ def get_departures(stops_request = None):
 def printDepartures(limit=15, request = None ):
     """prints departures in an easy to read table"""
     if request is None:
-        request = normal_stops
+        request = cathedral_quarter_request
 
     departures = get_departures(request)
     print("-"*128)
@@ -471,33 +495,38 @@ def printDepartures(limit=15, request = None ):
     print("-"*128)
     print('%127s' %('Data From bustimes.org - Last Updated '+str(nowLocal().strftime('%Y-%m-%d %X'))))
 
+# --- Flask Routes ---
 @app.route('/')
 def hello_flask():
-    """api test"""
-    return "Hello from Flask!"
+    """Simple API test endpoint. Frontend will route differently."""
+    return "Hello from Flask! API is running."
 
-@app.route('/departures')
-def get_bus_departures_api():
-    """pass departures data to api"""
+# NEW: Endpoint for Cathedral Quarter departures (uses the renamed variable)
+@app.route('/departures/cathedral_quarter')
+def get_cathedral_quarter_departures_api():
+    """Pass Cathedral Quarter departures data to API."""
     try:
-        departures_data = get_departures(normal_stops)
+        departures_data = get_departures(cathedral_quarter_request)
         return jsonify(departures_data)
     except Exception as e:
-        print(f"Error fetching departures: {e}")
-        print(traceback.format_exc()) # Keep this for your file logs via print
-
-        # --- NEW: DIRECTLY PRINT TRACEBACK TO STDOUT FOR DEBUGGING ---
-        print(f"--- TRACEBACK FOR /departures ERROR (Direct Print) ---")
+        print(f"Error fetching Cathedral Quarter departures: {e}")
         print(traceback.format_exc())
-        print(f"--------------------------------------------------")
-        # --- END NEW ---
+        return jsonify({"error": str(e), "message": "Could not fetch Cathedral Quarter departures"}), 500
 
-        return jsonify({"error": str(e), "message": "Could not fetch departures"}), 500
-
+# NEW: Endpoint for Bus Station departures (uses the existing variable)
+@app.route('/departures/bus_station')
+def get_bus_station_departures_api():
+    """Pass Bus Station departures data to API."""
+    try:
+        departures_data = get_departures(bus_station_request)
+        return jsonify(departures_data)
+    except Exception as e:
+        print(f"Error fetching Bus Station departures: {e}")
+        print(traceback.format_exc())
+        return jsonify({"error": str(e), "message": "Could not fetch Bus Station departures"}), 500
 
 if __name__ == '__main__':
-    # Ensure this is False and port is 8000
-    app.run(host='0.0.0.0', port=8000, debug=False)
+    app.run(debug=True, host='0.0.0.0', port=8000)
 
 #bus_station_request
 #while True:
