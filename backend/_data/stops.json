@@ -1,0 +1,1690 @@
+{
+    "109000009334": {
+        "atco_code": "109000009334",
+        "naptan_code": "dbyajamt",
+        "common_name": "Victoria Street",
+        "name": "Derby Victoria Street",
+        "long_name": "Derby Victoria Street (Stop B2)",
+        "location": [
+            -1.478120289550005,
+            52.921672987581346
+        ],
+        "indicator": "Stop B2",
+        "icon": "B2",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T13:48:14.811000Z",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Victoria Street (Stop B2) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/109000009334\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9217/-1.4781\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/stations/109GDDCV3176\">\n<span itemprop=\"name\">Victoria Street</span>\n</a><meta itemprop=\"position\" content=\"6\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Victoria Street (Stop B2)</h1>\n\n\n<p>On Victoria Street, near Green Lane</p>\n\n\n\n<p>Buses point north-west \u2196</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.921673/-1.478120\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9216730,-1.4781203&cbp=0,225,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyajamt</li>\n\n<li title=\"ATCO code\">109000009334</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Sched&shy;uled</th>\n<th scope=\"col\">Ex&shy;pected</th>\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/v3-derby-littleover-findern-willington-repton-ne-3\">V3</a>\n\n</td>\n<td>\nRepton\n\n</td>\n\n<td><a href=\"/trips/439073040\">\n\n23:17\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439073040\">\n23:17\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/v1-derby-etwall-hilton-hatton-tutbury-rolleston-2\">V1</a>\n\n</td>\n<td>\nBurton upon Trent\n\n</td>\n\n<td><a href=\"/trips/439072611\">\n\n23:17\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/ta-derby-allestree\">TA</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439069197\">\n\n23:31\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n\n\n</tbody>\n</table>\n\n\n<h3>Sunday 6 July</h3>\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Sched&shy;uled</th>\n<th scope=\"col\">Ex&shy;pected</th>\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/ta-derby-allestree\">TA</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439069198\">\n\n00:01\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n</tbody>\n</table>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n.colour-155 {\nbackground: #25b0cf;\nborder-color: #fff;\ncolor: #fff;\n}\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/x38-burton-derby\">\n\n\n\n<strong class=\"name colour colour-155\">\nX38\n</strong>\n\n\n\n\n<span class=\"description\">\nBurton - Derby\n</span>\n\n<small>Arriva Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/ta-derby-allestree\">\n\n\n\n<strong class=\"name\">\nTA\n</strong>\n\n\n\n\n<strong class=\"name\">the allestree</strong>\n\n<span class=\"description\">\nDerby - University - Allestree\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/tm-derby-mickleover\">\n\n\n\n<strong class=\"name\">\nTM\n</strong>\n\n\n\n\n<strong class=\"name\">the mickleover</strong>\n\n<span class=\"description\">\nDerby - Mickleover\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/v1-derby-etwall-hilton-hatton-tutbury-rolleston-2\">\n\n\n\n<strong class=\"name\">\nV1\n</strong>\n\n\n\n\n<strong class=\"name\">the villager</strong>\n\n<span class=\"description\">\nDerby - Etwall - Hilton - Hatton - Tutbury - Rolleston - Stretton - Burton upon Trent\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/v3-derby-littleover-findern-willington-repton-ne-3\">\n\n\n\n<strong class=\"name\">\nV3\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Littleover - Findern - Willington - Repton - Newton Solney - Burton upon Trent\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n<section class=\"aside\">\n<header>\n<h2>Nearby stops</h2>\n\n<a href=\"/map#16/52.9217/-1.4781\">Map</a>\n\n</header>\n<ul class=\"has-smalls\">\n\n<li>\n<a href=\"/stops/1090DDVS1302\">\n<span>\n\nStop B3\n\n\u2196\n\n</span>\n\n<small>114</small>\n\n<small>239</small>\n\n<small>L2</small>\n\n<small>SW</small>\n\n<small>U1</small>\n\n</a>\n</li>\n\n<li>\n<a href=\"/stops/1090DDVS1224\">\n<span>\n\nStop B4\n\n\u2196\n\n</span>\n\n<small>8</small>\n\n<small>X38</small>\n\n</a>\n</li>\n\n</ul>\n\n</section>\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"109000009334\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {}
+    },
+    "1090DDVS1302": {
+        "atco_code": "1090DDVS1302",
+        "naptan_code": "dbyajagj",
+        "common_name": "Victoria Street",
+        "name": "Derby Victoria Street",
+        "long_name": "Derby Victoria Street (Stop B3)",
+        "location": [
+            -1.4784766985838589,
+            52.92171949855823
+        ],
+        "indicator": "Stop B3",
+        "icon": "B3",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T13:52:48.104000Z",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Victoria Street (Stop B3) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/1090DDVS1302\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9217/-1.4785\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/stations/109GDDCV3176\">\n<span itemprop=\"name\">Victoria Street</span>\n</a><meta itemprop=\"position\" content=\"6\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Victoria Street (Stop B3)</h1>\n\n\n<p>On Victoria Street, near Green Lane</p>\n\n\n\n<p>Buses point north-west \u2196</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.921719/-1.478477\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9217195,-1.4784767&cbp=0,225,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyajagj</li>\n\n<li title=\"ATCO code\">1090DDVS1302</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/sw-derby-ashbourne-uttoxeter\">SW</a>\n\n</td>\n<td>\nAshbourne\n\n</td>\n\n<td><a href=\"/trips/439060187\">\n\n23:47\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n\n\n</tbody>\n</table>\n\n\n<h3>Sunday 6 July</h3>\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/sw-derby-ashbourne-uttoxeter\">SW</a>\n\n</td>\n<td>\nAshbourne\n\n</td>\n\n<td><a href=\"/trips/439060188\">\n\n00:31\n\n</a>\n</td>\n\n\n\n</tr>\n\n</tbody>\n</table>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/114-ashbourne-derby\">\n\n\n\n<strong class=\"name\">\n114\n</strong>\n\n\n\n\n<span class=\"description\">\nAshbourne - Derby\n</span>\n\n<small>High Peak</small>\n\n</a></li>\n\n<li><a href=\"/services/239-derby-st-benedicts-catholic-school\">\n\n\n\n<strong class=\"name\">\n239\n</strong>\n\n\n\n\n<span class=\"description\">\nCity Centre - St Benedicts School\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/l2-royal-derby-hospital-mackworth\">\n\n\n\n<strong class=\"name\">\nL2\n</strong>\n\n\n\n\n<span class=\"description\">\nRoyal Derby Hospital - Derby City Centre\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/sw-derby-ashbourne-uttoxeter\">\n\n\n\n<strong class=\"name\">\nSW\n</strong>\n\n\n\n\n<strong class=\"name\">swift</strong>\n\n<span class=\"description\">\nDerby - Ashbourne - Uttoxeter\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/u1-train-station-university\">\n\n\n\n<strong class=\"name\">\nU1\n</strong>\n\n\n\n\n<span class=\"description\">\nTrain Station - University\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n<section class=\"aside\">\n<header>\n<h2>Nearby stops</h2>\n\n<a href=\"/map#16/52.9217/-1.4785\">Map</a>\n\n</header>\n<ul class=\"has-smalls\">\n\n<li>\n<a href=\"/stops/109000009334\">\n<span>\n\nStop B2\n\n\u2196\n\n</span>\n\n<small>X38</small>\n\n<small>TA</small>\n\n<small>TM</small>\n\n<small>V1</small>\n\n<small>V3</small>\n\n</a>\n</li>\n\n<li>\n<a href=\"/stops/1090DDVS1224\">\n<span>\n\nStop B4\n\n\u2196\n\n</span>\n\n<small>8</small>\n\n<small>X38</small>\n\n</a>\n</li>\n\n</ul>\n\n</section>\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"1090DDVS1302\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {}
+    },
+    "1090DDVS1224": {
+        "atco_code": "1090DDVS1224",
+        "naptan_code": "dbyajadp",
+        "common_name": "Victoria Street",
+        "name": "Derby Victoria Street",
+        "long_name": "Derby Victoria Street (Stop B4)",
+        "location": [
+            -1.4786537702598128,
+            52.92183713721492
+        ],
+        "indicator": "Stop B4",
+        "icon": "B4",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T12:47:02.664000Z",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Victoria Street (Stop B4) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/1090DDVS1224\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9218/-1.4787\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/stations/109GDDCV3176\">\n<span itemprop=\"name\">Victoria Street</span>\n</a><meta itemprop=\"position\" content=\"6\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Victoria Street (Stop B4)</h1>\n\n\n<p>On Victoria Street, near Strand</p>\n\n\n\n<p>Buses point north-west \u2196</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.921837/-1.478654\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9218371,-1.4786538&cbp=0,225,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyajadp</li>\n\n<li title=\"ATCO code\">1090DDVS1224</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/8-derby-mackworth\">8</a>\n\n</td>\n<td>\nMackworth Estate\n\n</td>\n\n<td><a href=\"/trips/477725733\">\n\n23:21\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n\n\n</tbody>\n</table>\n\n\n<h3>Sunday 6 July</h3>\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/x38-derby-burton\">X38</a>\n\n</td>\n<td>\nBurton upon Trent\n\n</td>\n\n<td><a href=\"/trips/494865175\">\n\n00:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/x38-derby-burton\">X38</a>\n\n</td>\n<td>\nBurton upon Trent\n\n</td>\n\n<td><a href=\"/trips/494865176\">\n\n01:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/x38-derby-burton\">X38</a>\n\n</td>\n<td>\nBurton upon Trent\n\n</td>\n\n<td><a href=\"/trips/494865177\">\n\n02:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/x38-derby-burton\">X38</a>\n\n</td>\n<td>\nBurton upon Trent\n\n</td>\n\n<td><a href=\"/trips/494865178\">\n\n03:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n</tbody>\n</table>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n.colour-155 {\nbackground: #25b0cf;\nborder-color: #fff;\ncolor: #fff;\n}\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/8-derby-mackworth\">\n\n\n\n<strong class=\"name colour colour-155\">\n8\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Mackworth\n</span>\n\n<small>Arriva Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/x38-derby-burton\">\n\n\n\n<strong class=\"name\">\nX38\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Burton\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n<section class=\"aside\">\n<header>\n<h2>Nearby stops</h2>\n\n<a href=\"/map#16/52.9218/-1.4787\">Map</a>\n\n</header>\n<ul class=\"has-smalls\">\n\n<li>\n<a href=\"/stops/109000009334\">\n<span>\n\nStop B2\n\n\u2196\n\n</span>\n\n<small>X38</small>\n\n<small>TA</small>\n\n<small>TM</small>\n\n<small>V1</small>\n\n<small>V3</small>\n\n</a>\n</li>\n\n<li>\n<a href=\"/stops/1090DDVS1302\">\n<span>\n\nStop B3\n\n\u2196\n\n</span>\n\n<small>114</small>\n\n<small>239</small>\n\n<small>L2</small>\n\n<small>SW</small>\n\n<small>U1</small>\n\n</a>\n</li>\n\n</ul>\n\n</section>\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"1090DDVS1224\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {}
+    },
+    "109000022164": {
+        "atco_code": "109000022164",
+        "naptan_code": "dbyampgj",
+        "common_name": "Corporation Street",
+        "name": "Derby Corporation Street",
+        "long_name": "Derby Corporation Street (Stop C2)",
+        "location": [
+            -1.4749658138784865,
+            52.92300750575687
+        ],
+        "indicator": "Stop C2",
+        "icon": "C2",
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T13:01:24.843000Z",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Corporation Street (Stop C2) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/109000022164\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9230/-1.4750\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Corporation Street (Stop C2)</h1>\n\n\n<p>On Corporation Street, near Market Place</p>\n\n\n\n<p>Buses point north \u2191</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.923008/-1.474966\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9230075,-1.4749658&cbp=0,-90,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyampgj</li>\n\n<li title=\"ATCO code\">109000022164</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/91-the-nines-derby-ripley-alfreton-sutton-mansfiel\">9.1</a>\n\n</td>\n<td>\nAlfreton\n\n</td>\n\n<td><a href=\"/trips/439045584\">\n\n23:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n\n\n</tbody>\n</table>\n\n\n<h3>Sunday 6 July</h3>\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Scheduled</th>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/h1-derby-heanor-alfreton\">H1</a>\n\n</td>\n<td>\nHeanor\n\n</td>\n\n<td><a href=\"/trips/439063982\">\n\n00:05\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/91-the-nines-derby-ripley-alfreton-sutton-mansfiel\">9.1</a>\n\n</td>\n<td>\nAlfreton\n\n</td>\n\n<td><a href=\"/trips/439045585\">\n\n01:00\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/h1-derby-heanor-alfreton\">H1</a>\n\n</td>\n<td>\nHeanor\n\n</td>\n\n<td><a href=\"/trips/439063983\">\n\n01:05\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/h1-derby-heanor-alfreton\">H1</a>\n\n</td>\n<td>\nHeanor\n\n</td>\n\n<td><a href=\"/trips/439063984\">\n\n02:05\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/91-the-nines-derby-ripley-alfreton-sutton-mansfiel\">9.1</a>\n\n</td>\n<td>\nSouth Normanton\n\n</td>\n\n<td><a href=\"/trips/439045586\">\n\n02:30\n\n</a>\n</td>\n\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/h1-derby-heanor-alfreton\">H1</a>\n\n</td>\n<td>\nLangley Mill\n\n</td>\n\n<td><a href=\"/trips/439063985\">\n\n03:05\n\n</a>\n</td>\n\n\n\n</tr>\n\n</tbody>\n</table>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/2-derby-to-moy-park\">\n\n\n\n<strong class=\"name\">\n2\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Moy Park\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/91-the-nines-derby-ripley-alfreton-sutton-mansfiel\">\n\n\n\n<strong class=\"name\">\n9.1\n</strong>\n\n\n\n\n<strong class=\"name\">the nines</strong>\n\n<span class=\"description\">\nDerby - Mansfield\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/93-the-nines-derby-ripley-alfreton-mansfield\">\n\n\n\n<strong class=\"name\">\n9.3\n</strong>\n\n\n\n\n<strong class=\"name\">the nines</strong>\n\n<span class=\"description\">\nDerby - Mansfield\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/h1-derby-heanor-alfreton\">\n\n\n\n<strong class=\"name\">\nH1\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Smalley - Heanor - Alfreton\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"109000022164\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {}
+    },
+    "109000022165": {
+        "atco_code": "109000022165",
+        "naptan_code": "dbyampgm",
+        "common_name": "Corporation Street",
+        "name": "Derby Corporation Street",
+        "long_name": "Derby Corporation Street (Stop C3)",
+        "location": [
+            -1.4752156184967358,
+            52.92326031146821
+        ],
+        "indicator": "Stop C3",
+        "icon": "C3",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T12:30:44.722000Z",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Corporation Street (Stop C3) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/109000022165\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9233/-1.4752\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Corporation Street (Stop C3)</h1>\n\n\n<p>On Corporation Street, near Market Place</p>\n\n\n\n<p>Buses point north-west \u2196</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.923260/-1.475216\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9232603,-1.4752156&cbp=0,225,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyampgm</li>\n\n<li title=\"ATCO code\">109000022165</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/6x-the-sixes-belper-estates-belper-duffield-derby\">\n\n\n\n<strong class=\"name\">\n6X\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Duffield - Belper\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/59a-derby-stanley-common-ilkeston-shipley-view\">\n\n\n\n<strong class=\"name\">\n59\n</strong>\n\n\n\n\n\n<strong class=\"name\">\n59A\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby Bus Station - Ilkeston Hospital\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/71-derby-holbrook-belper\">\n\n\n\n<strong class=\"name\">\n71\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby, Derwent St - Belper\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/cmt-derby-ripley-alfreton-chesterfield\">\n\n\n\n<strong class=\"name\">\nCMT\n</strong>\n\n\n\n\n<strong class=\"name\">the comet</strong>\n\n<span class=\"description\">\nDerby - Ripley - Alfreton - Clay Cross - Chesterfield\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/v3-derby-littleover-findern-willington-repton-ne-3\">\n\n\n\n<strong class=\"name\">\nV3\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Littleover - Findern - Willington - Repton - Newton Solney - Burton upon Trent\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n<section class=\"aside\">\n<header>\n<h2>Nearby stops</h2>\n\n<a href=\"/map#16/52.9233/-1.4752\">Map</a>\n\n</header>\n<ul class=\"has-smalls\">\n\n<li>\n<a href=\"/stops/109000022164\">\n<span>\n\nStop C2\n\n\u2191\n\n</span>\n\n<small>2</small>\n\n<small>9.1</small>\n\n<small>9.3</small>\n\n<small>H1</small>\n\n</a>\n</li>\n\n<li>\n<a href=\"/stops/109000022166\">\n<span>\n\nStop C9\n\n\u2193\n\n</span>\n\n<small>6N</small>\n\n<small>X38</small>\n\n<small>239</small>\n\n<small>IGO</small>\n\n<small>SW</small>\n\n<small>TA</small>\n\n<small>TM</small>\n\n<small>V1</small>\n\n<small>i4</small>\n\n</a>\n</li>\n\n</ul>\n\n</section>\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"109000022165\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {}
+    },
+    "109000022171": {
+        "atco_code": "109000022171",
+        "naptan_code": "dbyampjg",
+        "common_name": "Full Street",
+        "name": "Derby Full Street",
+        "long_name": "Derby Full Street (Stop C4)",
+        "location": [
+            -1.4757094840824885,
+            52.92424233320148
+        ],
+        "indicator": "Stop C4",
+        "icon": "C4",
+        "bearing": "SE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-05-04T00:00:00+01:00",
+        "modified_at": "2024-07-22T10:52:16.903000+01:00",
+        "active": true,
+        "html": "<!doctype html>\n<html lang=\"en-GB\">\n<head>\n<meta charset=\"utf-8\">\n<title>Derby Full Street (Stop C4) \u2013 Bus Times</title>\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"theme-color\" content=\"#ffff9e\" media=\"(prefers-color-scheme: light)\">\n<meta name=\"theme-color\" content=\"#222\" media=\"(prefers-color-scheme: dark)\">\n<meta name=\"color-scheme\" content=\"dark light\">\n<meta name=\"format-detection\" content=\"telephone=no\">\n\n\n<link rel=\"canonical\" href=\"https://bustimes.org/stops/109000022171\">\n\n\n<script type=\"application/ld+json\">{\"@context\":\"http://schema.org\",\"@type\":\"WebSite\",\"url\":\"https://bustimes.org\",\"name\":\"bustimes.org\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://bustimes.org/search?q={q}\",\"query-input\":\"required name=q\"}}</script>\n\n<link rel=\"icon\" sizes=\"48x48\" type=\"image/png\" href=\"/favicon.ico\">\n<link rel=\"icon\" sizes=\"any\" type=\"image/svg+xml\" href=\"/static/svg/bimi.aeab251d5167.svg\">\n<link rel=\"manifest\" href=\"/static/manifest.a723b3ad7751.webmanifest\">\n<link rel=\"stylesheet\" href=\"/static/dist/css/style.6e9f348f6b11.css\">\n\n<meta name=\"twitter:card\" content=\"summary\">\n<meta name=\"twitter:site\" content=\"@bustimes_org\">\n\n\n\n\n\n<script src=\"/static/consent.7fb90646eedb.js\"></script>\n<script>if(typeof Array.prototype.includes!==\"undefined\"){s=document.getElementsByTagName('script')[0];var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;sc.src='https://cdn.adfirst.media/hb/bustimes.js?v'+Math.floor(new Date().getTime()/600000);s.parentNode.insertBefore(sc,s);}</script>\n\n\n<script src=\"https://analytics.ahrefs.com/analytics.js\" data-key=\"JnhFOzy1izIU9JV+msWPhA\" async></script>\n\n</head>\n<body class=\"wide\">\n<script>\n(function () {\nvar a = localStorage && localStorage[\"map-style\"];\nvar m = window.matchMedia && window.matchMedia(\"(prefers-color-scheme: dark)\").matches;\nif ((!a || a === \"alidade_satellite\") && m || a && a.indexOf(\"_dark\") !== -1) {\ndocument.body.classList.add(\"dark-mode\")\n}\n})();\n</script>\n\n<a href=\"#content\" class=\"skip\">Skip to main content</a>\n\n<header class=\"site-header\">\n<div>\n<a href=\"/\" class=\"site-name\">bustimes.org</a>\n<ul>\n<li><a href=\"/map#16/52.9242/-1.4757\">Map</a></li>\n</ul>\n<form method=\"GET\" action=\"/search\" class=\"search\">\n<label>\nSearch\n<input name=\"q\" placeholder=\"Search\" type=\"search\" value=\"\" required>\n</label>\n<input type=\"submit\" value=\"Search\">\n</form>\n</div>\n</header>\n\n<main>\n<ol class=\"breadcrumb\" itemscope itemtype=\"http://schema.org/BreadcrumbList\">\n<li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\">\n<a itemprop=\"item\" href=\"/\">\n<span itemprop=\"name\">Home</span>\n</a><meta itemprop=\"position\" content=\"0\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/regions/EM\">\n<span itemprop=\"name\">East Midlands</span>\n</a><meta itemprop=\"position\" content=\"1\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/areas/17\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"2\"></li><li itemprop=\"itemListElement\" itemscope itemtype=\"http://schema.org/ListItem\"><a itemprop=\"item\" href=\"/localities/derby\">\n<span itemprop=\"name\">Derby</span>\n</a><meta itemprop=\"position\" content=\"5\"></li>\n</ol>\n\n<div id=\"content\">\n\n\n<h1>Derby Full Street (Stop C4)</h1>\n\n\n<p>On Full Street, near Assembly Rooms</p>\n\n\n\n<p>Buses point south-east \u2198</p>\n\n\n\n<ul class=\"horizontal\">\n<li><a href=\"/map#16/52.924242/-1.475709\">Map</a></li>\n<li>\n<a href=\"https://www.google.com/maps?layer=c&cbll=52.9242423,-1.4757095&cbp=0,45,,,\">Street View</a>\n</li>\n\n<li title=\"NaPTAN code\">dbyampjg</li>\n\n<li title=\"ATCO code\">109000022171</li>\n</ul>\n\n\n\n<div class=\"ad-wrapper\">\n<div id=\"AFM_inContentTop_ad\"></div>\n</div>\n\n\n\n\n\n\n\n<div class=\"asides\">\n\n\n\n<div class=\"aside\" id=\"departures\">\n\n<form autocomplete=\"off\">\n<input type=\"date\" name=\"date\" min=\"2025-07-05\" value=\"2025-07-05\" required>\n<input type=\"time\" name=\"time\" value=\"23:06\">\n\n<input type=\"submit\" value=\"\u21bb\" aria-label=\"Reload\" title=\"Reload\">\n\n</form>\n\n\n\n\n\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Sched&shy;uled</th>\n<th scope=\"col\">Ex&shy;pected</th>\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/61-the-sixes-derby-belper-wirksworth-matlock-bakew\">6.1</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439070731\">\n\n22:51\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439070731\">\n23:09\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/v1-derby-etwall-hilton-hatton-tutbury-rolleston-2\">V1</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439072641\">\n\n23:04\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439072641\">\n23:14\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/sw-derby-ashbourne-uttoxeter\">SW</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439060217\">\n\n23:09\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439060217\">\n23:08\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/8-derby-mackworth\">8</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/477725732\">\n\n23:12\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/477725732\">\n23:15\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/tm-derby-mickleover\">TM</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/460840925\">\n\n23:12\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/460840925\">\n23:23\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/ta-derby-allestree\">TA</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439069196\">\n\n23:25\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439069196\">\n23:26\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/6e-the-sixes-derby-belper-ripley\">6E</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439070969\">\n\n23:26\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439070969\">\n23:30\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/tm-derby-mickleover\">TM</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/460840877\">\n\n23:42\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/460840877\">\n23:43\n</a>\n</td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/ta-derby-allestree\">TA</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439069197\">\n\n23:55\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/v3-derby-littleover-findern-willington-repton-ne-3\">V3</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439073057\">\n\n23:56\n\n</a>\n</td>\n\n\n<td>\n<a href=\"/trips/439073057\">\n23:56\n</a>\n</td>\n\n\n</tr>\n\n\n\n\n\n</tbody>\n</table>\n\n\n<h3>Sunday 6 July</h3>\n\n<table>\n<tbody>\n\n<tr>\n<td></td>\n<th scope=\"col\">To</th>\n<th scope=\"col\">Sched&shy;uled</th>\n<th scope=\"col\">Ex&shy;pected</th>\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/v1-derby-etwall-hilton-hatton-tutbury-rolleston-2\">V1</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439072642\">\n\n00:05\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/sw-derby-ashbourne-uttoxeter\">SW</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439060218\">\n\n00:09\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/ta-derby-allestree\">TA</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439069198\">\n\n00:25\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n\n\n<tr>\n<td class=\"nowrap\">\n\n<a href=\"/services/sw-derby-ashbourne-uttoxeter\">SW</a>\n\n</td>\n<td>\nDerby\n\n</td>\n\n<td><a href=\"/trips/439060219\">\n\n00:49\n\n</a>\n</td>\n\n\n<td></td>\n\n\n</tr>\n\n</tbody>\n</table>\n\n\n\n\n<p class=\"next\"><a href=\"?date=2025-07-06&amp;time=00%3A49\">Sunday 6 July &darr;</a></p>\n\n\n\n</div>\n\n\n<div class=\"aside\">\n<h2>Bus services\n</h2>\n<style>\n\n.colour-155 {\nbackground: #25b0cf;\nborder-color: #fff;\ncolor: #fff;\n}\n\n</style>\n<ul class=\"has-smalls\">\n\n<li><a href=\"/services/60-the-sixes-derby-belper\">\n\n\n\n<strong class=\"name\">\n6.0\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Belper\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/61-the-sixes-derby-belper-wirksworth-matlock-bakew\">\n\n\n\n<strong class=\"name\">\n6.1\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Matlock\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/62-the-sixes-derby-belper-ripley\">\n\n\n\n<strong class=\"name\">\n6.2\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Ripley\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/63-the-sixes-derby-belper-ripley\">\n\n\n\n<strong class=\"name\">\n6.3\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby  - Ripley\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/6e-the-sixes-derby-belper-ripley\">\n\n\n\n<strong class=\"name\">\n6E\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Ripley\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/6x-the-sixes-belper-estates-belper-duffield-derby\">\n\n\n\n<strong class=\"name\">\n6X\n</strong>\n\n\n\n\n<strong class=\"name\">the sixes</strong>\n\n<span class=\"description\">\nDerby - Duffield - Belper\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/8-derby-mackworth\">\n\n\n\n<strong class=\"name colour colour-155\">\n8\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Mackworth\n</span>\n\n<small>Arriva Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/x38-derby-burton\">\n\n\n\n<strong class=\"name\">\nX38\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Burton\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/114-ashbourne-derby\">\n\n\n\n<strong class=\"name\">\n114\n</strong>\n\n\n\n\n<span class=\"description\">\nAshbourne - Derby\n</span>\n\n<small>High Peak</small>\n\n</a></li>\n\n<li><a href=\"/services/239-derby-st-benedicts-catholic-school\">\n\n\n\n<strong class=\"name\">\n239\n</strong>\n\n\n\n\n<span class=\"description\">\nCity Centre - St Benedicts School\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/dp1-derby-download-festival\">\n\n\n\n<strong class=\"name\">\nDP1\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Download Festival\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/l2-royal-derby-hospital-mackworth\">\n\n\n\n<strong class=\"name\">\nL2\n</strong>\n\n\n\n\n<span class=\"description\">\nRoyal Derby Hospital - Derby City Centre\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/sw-derby-ashbourne-uttoxeter\">\n\n\n\n<strong class=\"name\">\nSW\n</strong>\n\n\n\n\n<strong class=\"name\">swift</strong>\n\n<span class=\"description\">\nDerby - Ashbourne - Uttoxeter\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/ta-derby-allestree\">\n\n\n\n<strong class=\"name\">\nTA\n</strong>\n\n\n\n\n<strong class=\"name\">the allestree</strong>\n\n<span class=\"description\">\nDerby - University - Allestree\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/tm-derby-mickleover\">\n\n\n\n<strong class=\"name\">\nTM\n</strong>\n\n\n\n\n<strong class=\"name\">the mickleover</strong>\n\n<span class=\"description\">\nDerby - Mickleover\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/u1-train-station-university\">\n\n\n\n<strong class=\"name\">\nU1\n</strong>\n\n\n\n\n<span class=\"description\">\nTrain Station - University\n</span>\n\n<small>Notts and Derby</small>\n\n</a></li>\n\n<li><a href=\"/services/v1-derby-etwall-hilton-hatton-tutbury-rolleston-2\">\n\n\n\n<strong class=\"name\">\nV1\n</strong>\n\n\n\n\n<strong class=\"name\">the villager</strong>\n\n<span class=\"description\">\nDerby - Etwall - Hilton - Hatton - Tutbury - Rolleston - Stretton - Burton upon Trent\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n<li><a href=\"/services/v3-derby-littleover-findern-willington-repton-ne-3\">\n\n\n\n<strong class=\"name\">\nV3\n</strong>\n\n\n\n\n<span class=\"description\">\nDerby - Littleover - Findern - Willington - Repton - Newton Solney - Burton upon Trent\n</span>\n\n<small>trentbarton</small>\n\n</a></li>\n\n</ul>\n\n</div>\n\n\n\n\n</div>\n\n\n</div>\n</main>\n\n\n<footer>\n\n<ul>\n<li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/data\">Data sources</a></li>\n<li><a href=\"/privacy\">Privacy policy</a></li>\n<li><a href=\"javascript:window.__tcfapi('displayConsentUi',2,function(){})\">Privacy settings</a></li>\n</ul>\n</footer>\n\n\n\n\n\n<script>\nSTOP_CODE = \"109000022171\";\n</script>\n<script async src=\"/static/js/departures.0ff2afd3da61.js\"></script>\n\n\n\n</body>\n</html>\n",
+        "extras": {
+            "filter": {
+                "type": "is_not",
+                "key": "destination_stop/atco_code",
+                "value": [
+                    "1090BSTN01",
+                    "1090BSTN02",
+                    "1090BSTN03",
+                    "1090BSTN04",
+                    "1090BSTN05",
+                    "1090BSTN06",
+                    "1090BSTN07",
+                    "1090BSTN08",
+                    "1090BSTN09",
+                    "1090BSTN10",
+                    "1090BSTN11",
+                    "1090BSTN12",
+                    "1090BSTN13",
+                    "1090BSTN14",
+                    "1090BSTN15",
+                    "1090BSTN16",
+                    "1090BSTN17",
+                    "1090BSTN18",
+                    "1090BSTN19",
+                    "1090BSTN20",
+                    "1090BSTN21",
+                    "1090BSTN22",
+                    "1090BSTN23",
+                    "1090BSTN24",
+                    "1090BSTN25",
+                    "109000022166",
+                    "109000009330",
+                    "109000022155",
+                    "109000022165"
+                ]
+            }
+        }
+    },
+    "1090BSTN20": {
+        "atco_code": "1090BSTN20",
+        "naptan_code": "dbyptmgt",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 20)",
+        "location": [
+            -1.4712572280688896,
+            52.92219101407062
+        ],
+        "indicator": "Bay 20",
+        "icon": "20",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    },
+    "109000009011": {
+        "atco_code": "109000009011",
+        "naptan_code": "dbyajpjg",
+        "common_name": "Royal Derby Hospital",
+        "name": "Royal Derby Hospital",
+        "long_name": "Royal Derby Hospital (Adj)",
+        "location": [
+            -1.5143404365241389,
+            52.91210895023085
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-07-22T10:45:23.655000+01:00",
+        "active": true
+    },
+    "109000008906": {
+        "atco_code": "109000008906",
+        "naptan_code": "dbyapajd",
+        "common_name": "Vicarage Road",
+        "name": "Mickleover Vicarage Road",
+        "long_name": "Mickleover Vicarage Road (NW-bound)",
+        "location": [
+            -1.5455306521863856,
+            52.90432162597582
+        ],
+        "indicator": "NW-bound",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-07-17T00:00:00+01:00",
+        "active": true
+    },
+    "109000008931": {
+        "atco_code": "109000008931",
+        "naptan_code": "dbyajwmj",
+        "common_name": "Ladybank Road Shops",
+        "name": "Mickleover Ladybank Road Shops",
+        "long_name": "Mickleover, opposite Ladybank Road Shops",
+        "location": [
+            -1.5525125017745827,
+            52.91356222548447
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000008939": {
+        "atco_code": "109000008939",
+        "naptan_code": "dbyajwap",
+        "common_name": "Bonsall Drive",
+        "name": "Mickleover Bonsall Drive",
+        "long_name": "Mickleover, adjacent to Bonsall Drive",
+        "location": [
+            -1.5406915671006856,
+            52.914838580519636
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000009012": {
+        "atco_code": "109000009012",
+        "naptan_code": "dbyajpjm",
+        "common_name": "Royal Derby Hospital",
+        "name": "Royal Derby Hospital",
+        "long_name": "Royal Derby Hospital (Opp)",
+        "location": [
+            -1.513503104357862,
+            52.91251903817653
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2020-10-07T08:54:52+01:00",
+        "active": true
+    },
+    "109000022166": {
+        "atco_code": "109000022166",
+        "naptan_code": "dbyampgp",
+        "common_name": "Corporation Street",
+        "name": "Derby Corporation Street",
+        "long_name": "Derby Corporation Street (Stop C9)",
+        "location": [
+            -1.4744486204337282,
+            52.92272654959967
+        ],
+        "indicator": "Stop C9",
+        "icon": "C9",
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T13:38:30.959000Z",
+        "active": true
+    },
+    "109000009153": {
+        "atco_code": "109000009153",
+        "naptan_code": "dbyagajw",
+        "common_name": "University",
+        "name": "Allestree University",
+        "long_name": "Allestree, opposite University",
+        "location": [
+            -1.5006141662711643,
+            52.936763864052104
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-03-28T09:43:43.437000Z",
+        "active": true
+    },
+    "109000008741": {
+        "atco_code": "109000008741",
+        "naptan_code": "dbyadjdg",
+        "common_name": "Park Farm Shops",
+        "name": "Allestree Park Farm Shops",
+        "long_name": "Allestree, opposite Park Farm Shops",
+        "location": [
+            -1.4975977537801328,
+            52.94413141273682
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2010-01-11T00:00:00Z",
+        "active": true
+    },
+    "109000008787": {
+        "atco_code": "109000008787",
+        "naptan_code": "dbyagapt",
+        "common_name": "Blenheim Parade",
+        "name": "Allestree Blenheim Parade",
+        "long_name": "Allestree, opposite Blenheim Parade",
+        "location": [
+            -1.494887326916988,
+            52.95325309741686
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000008732": {
+        "atco_code": "109000008732",
+        "naptan_code": "dbyagatj",
+        "common_name": "Lane End",
+        "name": "Allestree Lane End",
+        "long_name": "Allestree, adjacent to Lane End",
+        "location": [
+            -1.50329199017746,
+            52.9445958120925
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-05-02T00:00:00+01:00",
+        "active": true
+    },
+    "109000009152": {
+        "atco_code": "109000009152",
+        "naptan_code": "dbyadgtg",
+        "common_name": "University",
+        "name": "Allestree University",
+        "long_name": "Allestree, adjacent to University",
+        "location": [
+            -1.4995655950875926,
+            52.93608525393134
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "SE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-12-15T00:00:00Z",
+        "active": true
+    },
+    "1090BSTN21": {
+        "atco_code": "1090BSTN21",
+        "naptan_code": "dbyptmgw",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 21)",
+        "location": [
+            -1.4711828629336128,
+            52.92219068330064
+        ],
+        "indicator": "Bay 21",
+        "icon": "21",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    },
+    "109000008938": {
+        "atco_code": "109000008938",
+        "naptan_code": "dbyajwam",
+        "common_name": "East Avenue",
+        "name": "Mickleover East Avenue",
+        "long_name": "Mickleover East Avenue (W-bound)",
+        "location": [
+            -1.5424163750628939,
+            52.91486321056022
+        ],
+        "indicator": "W-bound",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-07-17T00:00:00+01:00",
+        "active": true
+    },
+    "109000008930": {
+        "atco_code": "109000008930",
+        "naptan_code": "dbyajwmg",
+        "common_name": "Ladybank Road Shops",
+        "name": "Mickleover Ladybank Road Shops",
+        "long_name": "Mickleover, adjacent to Ladybank Road Shops",
+        "location": [
+            -1.5532769853500112,
+            52.91297180213521
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000008903": {
+        "atco_code": "109000008903",
+        "naptan_code": "dbyapagt",
+        "common_name": "Tesco",
+        "name": "Mickleover Tesco",
+        "long_name": "Mickleover Tesco (E-bound)",
+        "location": [
+            -1.5432961517414954,
+            52.90473556324809
+        ],
+        "indicator": "E-bound",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-07-22T10:31:55.736000+01:00",
+        "active": true
+    },
+    "1000DRWR5005": {
+        "atco_code": "1000DRWR5005",
+        "naptan_code": "dbsdmjmd",
+        "common_name": "The Cross",
+        "name": "Repton The Cross",
+        "long_name": "Repton The Cross (S-bound)",
+        "location": [
+            -1.5505815829171645,
+            52.839994462854236
+        ],
+        "indicator": "S-bound",
+        "icon": null,
+        "bearing": "SE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2021-03-24T08:38:07Z",
+        "active": true
+    },
+    "1090BSTN03": {
+        "atco_code": "1090BSTN03",
+        "naptan_code": "dbyptmaj",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 3)",
+        "location": [
+            -1.4720508536058177,
+            52.92175406119692
+        ],
+        "indicator": "Bay 3",
+        "icon": "3",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    },
+    "109000008988": {
+        "atco_code": "109000008988",
+        "naptan_code": "dbyadjwg",
+        "common_name": "Chain Lane",
+        "name": "Littleover Chain Lane",
+        "long_name": "Littleover, opposite Chain Lane",
+        "location": [
+            -1.5143613436874397,
+            52.90491752265141
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-07-16T00:00:00+01:00",
+        "active": true
+    },
+    "1090D0001481": {
+        "atco_code": "1090D0001481",
+        "naptan_code": "dbyajgpd",
+        "common_name": "Maize Close",
+        "name": "Littleover Maize Close",
+        "long_name": "Littleover, opposite Maize Close",
+        "location": [
+            -1.519663836836076,
+            52.89194937822638
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2022-04-29T09:52:45.359000+01:00",
+        "active": true
+    },
+    "109000009572": {
+        "atco_code": "109000009572",
+        "naptan_code": "dbyajpad",
+        "common_name": "Hollybrook Medical Centre",
+        "name": "Littleover Hollybrook Medical Centre",
+        "long_name": "Littleover, opposite Hollybrook Medical Centre",
+        "location": [
+            -1.5304589891991458,
+            52.891552034319076
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-06-05T00:00:00+01:00",
+        "active": true
+    },
+    "1000DFDL5144": {
+        "atco_code": "1000DFDL5144",
+        "naptan_code": "dbsampma",
+        "common_name": "The Green",
+        "name": "Findern The Green",
+        "long_name": "Findern The Green (S-bound)",
+        "location": [
+            -1.5435935672138006,
+            52.87074773705923
+        ],
+        "indicator": "S-bound",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-05-21T00:00:00+01:00",
+        "active": true
+    },
+    "1000DWRR5000": {
+        "atco_code": "1000DWRR5000",
+        "naptan_code": "dbsdmwaj",
+        "common_name": "Beech Avenue",
+        "name": "Willington Beech Avenue",
+        "long_name": "Willington Beech Avenue (S-bound adj)",
+        "location": [
+            -1.5645377522169397,
+            52.85175072851835
+        ],
+        "indicator": "S-bound adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2017-11-30T16:07:01Z",
+        "active": true
+    },
+    "3800C303200": {
+        "atco_code": "3800C303200",
+        "naptan_code": "stadajmj",
+        "common_name": "Railway Station",
+        "name": "Burton upon Trent Railway Station",
+        "long_name": "Burton upon Trent Railway Station (Stand S2)",
+        "location": [
+            -1.6421435432938654,
+            52.80638823219042
+        ],
+        "indicator": "Stand S2",
+        "icon": "S2",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-09-26T16:49:00+01:00",
+        "modified_at": "2025-02-18T13:17:39Z",
+        "active": true
+    },
+    "1090BSTN04": {
+        "atco_code": "1090BSTN04",
+        "naptan_code": "dbyptmam",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 4)",
+        "location": [
+            -1.4720206706838346,
+            52.92178988470106
+        ],
+        "indicator": "Bay 4",
+        "icon": "4",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    },
+    "109000008907": {
+        "atco_code": "109000008907",
+        "naptan_code": "dbyapajg",
+        "common_name": "The Square",
+        "name": "Mickleover The Square",
+        "long_name": "Mickleover, adjacent to The Square",
+        "location": [
+            -1.545995006185415,
+            52.90399079306835
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2023-05-11T13:17:54.386000+01:00",
+        "active": true
+    },
+    "1000DEMS5115": {
+        "atco_code": "1000DEMS5115",
+        "naptan_code": "dbsampgt",
+        "common_name": "Spread Eagle",
+        "name": "Etwall Spread Eagle",
+        "long_name": "Etwall, adjacent to Spread Eagle",
+        "location": [
+            -1.601734784905978,
+            52.884369010726346
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-07-23T09:41:27.350000+01:00",
+        "active": true
+    },
+    "100000018920": {
+        "atco_code": "100000018920",
+        "naptan_code": "dbsgpamd",
+        "common_name": "Foss Road",
+        "name": "Hilton Foss Road",
+        "long_name": "Hilton, adjacent to Foss Road",
+        "location": [
+            -1.6271222077670542,
+            52.86989752124421
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2023-05-11T13:09:22.034000+01:00",
+        "active": true
+    },
+    "1000DHSR5202": {
+        "atco_code": "1000DHSR5202",
+        "naptan_code": "dbsapmta",
+        "common_name": "Railway Station",
+        "name": "Hatton Railway Station",
+        "long_name": "Hatton, adjacent to Railway Station",
+        "location": [
+            -1.6816649359051752,
+            52.864887214788126
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-12-01T00:00:00Z",
+        "active": true
+    },
+    "3800C309700": {
+        "atco_code": "3800C309700",
+        "naptan_code": "stadapwa",
+        "common_name": "Ye Olde Dog & Partridge",
+        "name": "Tutbury Ye Olde Dog & Partridge",
+        "long_name": "Tutbury, adjacent to Ye Olde Dog & Partridge",
+        "location": [
+            -1.6853732273752036,
+            52.85739092959199
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-02T14:09:00+01:00",
+        "modified_at": "2025-02-20T12:46:53Z",
+        "active": true
+    },
+    "3800C307501": {
+        "atco_code": "3800C307501",
+        "naptan_code": "stadapgj",
+        "common_name": "Spread Eagle Inn",
+        "name": "Rolleston on Dove Spread Eagle Inn",
+        "long_name": "Rolleston on Dove, opposite Spread Eagle Inn",
+        "location": [
+            -1.6506624707589188,
+            52.84661451815234
+        ],
+        "indicator": "opp",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-02T11:58:00+01:00",
+        "modified_at": "2025-02-19T13:20:05Z",
+        "active": true
+    },
+    "3800C332002": {
+        "atco_code": "3800C332002",
+        "naptan_code": "stadgmwj",
+        "common_name": "Britannia Drive",
+        "name": "Stretton Britannia Drive",
+        "long_name": "Stretton, opposite Britannia Drive",
+        "location": [
+            -1.629176418607031,
+            52.829307618976806
+        ],
+        "indicator": "opp",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-05T12:21:00+01:00",
+        "modified_at": "2025-03-11T11:15:17Z",
+        "active": true
+    },
+    "3800C302100": {
+        "atco_code": "3800C302100",
+        "naptan_code": "stadajgd",
+        "common_name": "Tyldesley Court",
+        "name": "Burton upon Trent Tyldesley Court",
+        "long_name": "Burton upon Trent, adjacent to Tyldesley Court",
+        "location": [
+            -1.626269910800985,
+            52.80651014618433
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-01T16:08:00+01:00",
+        "modified_at": "2025-02-18T09:33:00Z",
+        "active": true
+    },
+    "3800C302701": {
+        "atco_code": "3800C302701",
+        "naptan_code": "stadamdp",
+        "common_name": "Market Place",
+        "name": "Burton upon Trent Market Place",
+        "long_name": "Burton upon Trent, adjacent to Market Place",
+        "location": [
+            -1.63098766889538,
+            52.801194116128
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-09-26T16:48:00+01:00",
+        "modified_at": "2025-02-18T11:00:07Z",
+        "active": true
+    },
+    "109000008731": {
+        "atco_code": "109000008731",
+        "naptan_code": "dbyadwpj",
+        "common_name": "Lane End",
+        "name": "Allestree Lane End",
+        "long_name": "Allestree Lane End (NE-bound)",
+        "location": [
+            -1.5030463822059876,
+            52.94525100776576
+        ],
+        "indicator": "NE-bound",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-03-28T09:44:33.854000Z",
+        "active": true
+    },
+    "109000008788": {
+        "atco_code": "109000008788",
+        "naptan_code": "dbyadjag",
+        "common_name": "Blenheim Parade",
+        "name": "Allestree Blenheim Parade",
+        "long_name": "Allestree, adjacent to Blenheim Parade",
+        "location": [
+            -1.4952581651696308,
+            52.95336254390434
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000008742": {
+        "atco_code": "109000008742",
+        "naptan_code": "dbyagamp",
+        "common_name": "Park Farm Shops",
+        "name": "Allestree Park Farm Shops",
+        "long_name": "Allestree, adjacent to Park Farm Shops",
+        "location": [
+            -1.4970304150400693,
+            52.94429082257086
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-03-28T09:42:20.722000Z",
+        "active": true
+    },
+    "3800C306400": {
+        "atco_code": "3800C306400",
+        "naptan_code": "stadapaw",
+        "common_name": "Jubilee Square",
+        "name": "Mayfield Jubilee Square",
+        "long_name": "Mayfield, adjacent to Jubilee Square",
+        "location": [
+            -1.7698645317760449,
+            53.00605162254689
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-02T11:08:00+01:00",
+        "modified_at": "2025-02-19T11:20:21Z",
+        "active": true
+    },
+    "1090BSTN02": {
+        "atco_code": "1090BSTN02",
+        "naptan_code": "dbyptmag",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 2)",
+        "location": [
+            -1.4720959093450254,
+            52.921718303729655
+        ],
+        "indicator": "Bay 2",
+        "icon": "2",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    },
+    "109000009061": {
+        "atco_code": "109000009061",
+        "naptan_code": "dbyajgwd",
+        "common_name": "Vauxhall Avenue",
+        "name": "Mackworth Estate Vauxhall Avenue",
+        "long_name": "Mackworth Estate, adjacent to Vauxhall Avenue",
+        "location": [
+            -1.5180968273952176,
+            52.93139744624466
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "1000DKLA5620": {
+        "atco_code": "1000DKLA5620",
+        "naptan_code": "dbsatajt",
+        "common_name": "Church Lane",
+        "name": "Kirk Langley Church Lane",
+        "long_name": "Kirk Langley, adjacent to Church Lane",
+        "location": [
+            -1.5743084051645173,
+            52.94742419805337
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "1000DBMR5632": {
+        "atco_code": "1000DBMR5632",
+        "naptan_code": "dbsgjwpw",
+        "common_name": "Rose And Crown",
+        "name": "Brailsford Rose And Crown",
+        "long_name": "Brailsford, opposite Rose And Crown",
+        "location": [
+            -1.616712682317326,
+            52.96715606523623
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2010-01-12T00:00:00Z",
+        "active": true
+    },
+    "1000DSWO5689": {
+        "atco_code": "1000DSWO5689",
+        "naptan_code": "dbsdataw",
+        "common_name": "Pine Croft",
+        "name": "Spitalhill Pine Croft",
+        "long_name": "Spitalhill, opposite Pine Croft",
+        "location": [
+            -1.726200422667238,
+            53.006013143839574
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-07-03T00:00:00+01:00",
+        "active": true
+    },
+    "1000DABS0640": {
+        "atco_code": "1000DABS0640",
+        "naptan_code": "dbsadtga",
+        "common_name": "Bus Station",
+        "name": "Ashbourne Bus Station",
+        "long_name": "Ashbourne Bus Station (Stand 1)",
+        "location": [
+            -1.7328771045434501,
+            53.015619762503526
+        ],
+        "indicator": "Stand 1",
+        "icon": "1",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2020-10-13T14:45:27+01:00",
+        "active": true
+    },
+    "1000D0008015": {
+        "atco_code": "1000D0008015",
+        "naptan_code": "dbsadpwp",
+        "common_name": "Lodge Avenue",
+        "name": "Ashbourne Lodge Avenue",
+        "long_name": "Ashbourne, adjacent to Lodge Avenue",
+        "location": [
+            -1.7414348908855832,
+            53.010317067157615
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "CUS",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-06-11T00:00:00+01:00",
+        "active": true
+    },
+    "109000009330": {
+        "atco_code": "109000009330",
+        "naptan_code": "dbyadwtj",
+        "common_name": "Albert Street",
+        "name": "Derby Albert Street",
+        "long_name": "Derby Albert Street (Stop B1)",
+        "location": [
+            -1.475098382602392,
+            52.92188441803595
+        ],
+        "indicator": "Stop B1",
+        "icon": "B1",
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-02-03T13:43:39.790000Z",
+        "active": true
+    },
+    "109000009039": {
+        "atco_code": "109000009039",
+        "naptan_code": "dbyajmpd",
+        "common_name": "Kingsway Bridge",
+        "name": "Mackworth Estate Kingsway Bridge",
+        "long_name": "Mackworth Estate Kingsway Bridge (W-bound)",
+        "location": [
+            -1.511829762939292,
+            52.92380283655991
+        ],
+        "indicator": "W-bound",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-07-17T00:00:00+01:00",
+        "active": true
+    },
+    "109000008973": {
+        "atco_code": "109000008973",
+        "naptan_code": "dbyajtgt",
+        "common_name": "Henley Green",
+        "name": "Mackworth Estate Henley Green",
+        "long_name": "Mackworth Estate, adjacent to Henley Green",
+        "location": [
+            -1.5288477670800316,
+            52.9277548984053
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000009038": {
+        "atco_code": "109000009038",
+        "naptan_code": "dbyajmpa",
+        "common_name": "Kingsway Bridge",
+        "name": "Mackworth Estate Kingsway Bridge",
+        "long_name": "Mackworth Estate, opposite Kingsway Bridge",
+        "location": [
+            -1.5122594840391144,
+            52.92394843014728
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "109000008978": {
+        "atco_code": "109000008978",
+        "naptan_code": "dbyadjpw",
+        "common_name": "Harlow Fields",
+        "name": "Mackworth Estate Harlow Fields",
+        "long_name": "Mackworth Estate, opposite Harlow Fields",
+        "location": [
+            -1.5267134377761626,
+            52.9243124859095
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2013-10-14T14:13:05+01:00",
+        "active": true
+    },
+    "3800C302700": {
+        "atco_code": "3800C302700",
+        "naptan_code": "stadamdm",
+        "common_name": "Market Place",
+        "name": "Burton upon Trent Market Place",
+        "long_name": "Burton upon Trent, opposite Market Place",
+        "location": [
+            -1.6311792694469847,
+            52.8013385435518
+        ],
+        "indicator": "opp",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-09-26T16:48:00+01:00",
+        "modified_at": "2025-02-18T10:40:40Z",
+        "active": true
+    },
+    "3800C308901": {
+        "atco_code": "3800C308901",
+        "naptan_code": "stadapmp",
+        "common_name": "St Mary's Church",
+        "name": "Stretton St Mary's Church",
+        "long_name": "Stretton, adjacent to St Mary's Church",
+        "location": [
+            -1.6257518502592296,
+            52.834034331949866
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "SW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2004-07-02T13:42:00+01:00",
+        "modified_at": "2025-02-20T09:14:01Z",
+        "active": true
+    },
+    "1000DLMM1568": {
+        "atco_code": "1000DLMM1568",
+        "naptan_code": "dbsdtjmd",
+        "common_name": "trentbarton Garage",
+        "name": "Langley Mill trentbarton Garage",
+        "long_name": "Langley Mill, opposite trentbarton Garage",
+        "location": [
+            -1.3400843475584097,
+            53.018045111183504
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2025-05-30T16:45:28.379000+01:00",
+        "active": true
+    },
+    "109000008818": {
+        "atco_code": "109000008818",
+        "naptan_code": "dbyagpgw",
+        "common_name": "Cinema",
+        "name": "Meteor Centre Cinema",
+        "long_name": "Meteor Centre, adjacent to Cinema",
+        "location": [
+            -1.4629529224978743,
+            52.94060897904381
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-05-02T00:00:00+01:00",
+        "active": true
+    },
+    "109000008869": {
+        "atco_code": "109000008869",
+        "naptan_code": "dbyajtma",
+        "common_name": "Windmill Inn",
+        "name": "Oakwood Windmill Inn",
+        "long_name": "Oakwood, adjacent to Windmill Inn",
+        "location": [
+            -1.4418593660496055,
+            52.94935736908268
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "CUS",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2010-01-11T00:00:00Z",
+        "active": true
+    },
+    "1000DMMR4487": {
+        "atco_code": "1000DMMR4487",
+        "naptan_code": "dbsdtgdp",
+        "common_name": "Broomfield Hall Campus",
+        "name": "Broomfield Hall Campus",
+        "long_name": "Broomfield Hall Campus (Adj)",
+        "location": [
+            -1.4220947307618332,
+            52.95492625343058
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-04-16T09:32:59.285000+01:00",
+        "active": true
+    },
+    "1000DSMR4497": {
+        "atco_code": "1000DSMR4497",
+        "naptan_code": "dbsdjmpj",
+        "common_name": "Rose and Crown",
+        "name": "Smalley Rose and Crown",
+        "long_name": "Smalley, adjacent to Rose and Crown",
+        "location": [
+            -1.4005162936681035,
+            52.98256055144785
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-07-24T08:30:10.805000+01:00",
+        "active": true
+    },
+    "1000DSMR4250": {
+        "atco_code": "1000DSMR4250",
+        "naptan_code": "dbsdjmpd",
+        "common_name": "Dobholes Lane",
+        "name": "Smalley Dobholes Lane",
+        "long_name": "Smalley, adjacent to Dobholes Lane",
+        "location": [
+            -1.3945027153161722,
+            52.998270384605355
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-07-24T00:00:00+01:00",
+        "active": true
+    },
+    "1000DHGH4423": {
+        "atco_code": "1000DHGH4423",
+        "naptan_code": "dbsgadgm",
+        "common_name": "Kirkley Drive",
+        "name": "Heanor Gate Kirkley Drive",
+        "long_name": "Heanor Gate, adjacent to Kirkley Drive",
+        "location": [
+            -1.3713135801614735,
+            53.00988114285545
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-08-13T00:00:00+01:00",
+        "active": true
+    },
+    "1000DHWS1492": {
+        "atco_code": "1000DHWS1492",
+        "naptan_code": "dbsdwgwm",
+        "common_name": "Market Place",
+        "name": "Heanor Market Place",
+        "long_name": "Heanor Market Place (Stop 5)",
+        "location": [
+            -1.3532627193879971,
+            53.01301155038373
+        ],
+        "indicator": "Stop 5",
+        "icon": "5",
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2016-09-20T11:43:20+01:00",
+        "active": true
+    },
+    "1000DHMP0837": {
+        "atco_code": "1000DHMP0837",
+        "naptan_code": "dbsdwpdg",
+        "common_name": "Market Place",
+        "name": "Heanor Market Place",
+        "long_name": "Heanor Market Place (Stop 1)",
+        "location": [
+            -1.353505746545456,
+            53.013705047366884
+        ],
+        "indicator": "Stop 1",
+        "icon": "1",
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2022-03-03T13:08:13.564000Z",
+        "active": true
+    },
+    "1000DAHS7253": {
+        "atco_code": "1000DAHS7253",
+        "naptan_code": "dbsgpgpd",
+        "common_name": "Alfreton Bus Station",
+        "name": "Alfreton Bus Station",
+        "long_name": "Alfreton Bus Station (Stand 2)",
+        "location": [
+            -1.3875952510235288,
+            53.095750243650585
+        ],
+        "indicator": "Stand 2",
+        "icon": "2",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-10-07T09:30:28.494000+01:00",
+        "active": true
+    },
+    "1090DDAR1606": {
+        "atco_code": "1090DDAR1606",
+        "naptan_code": "dbyamgdt",
+        "common_name": "Pektron",
+        "name": "Little Chester Pektron",
+        "long_name": "Little Chester, opposite Pektron",
+        "location": [
+            -1.461872291418941,
+            52.947355100893866
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "1000DKTB4179": {
+        "atco_code": "1000DKTB4179",
+        "naptan_code": "dbsdwdpg",
+        "common_name": "Bywell Lane",
+        "name": "Kilburn Bywell Lane",
+        "long_name": "Kilburn, opposite Bywell Lane",
+        "location": [
+            -1.4374785918856443,
+            53.01170457685577
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "S",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2016-01-26T07:37:30Z",
+        "active": true
+    },
+    "1000DKET4190": {
+        "atco_code": "1000DKET4190",
+        "naptan_code": "dbsapwgm",
+        "common_name": "Windmill Avenue north end",
+        "name": "Kilburn Windmill Avenue north end",
+        "long_name": "Kilburn, adjacent to Windmill Avenue north end",
+        "location": [
+            -1.4263166592666483,
+            53.008208391928996
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2023-06-13T11:50:04.731000+01:00",
+        "active": true
+    },
+    "1000DDDR4196": {
+        "atco_code": "1000DDDR4196",
+        "naptan_code": "dbsgdwdw",
+        "common_name": "Denby Visitor Centre",
+        "name": "Denby Visitor Centre",
+        "long_name": "Denby Visitor Centre (Opp)",
+        "location": [
+            -1.4169062930329648,
+            53.023057863995334
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2016-01-25T14:54:07Z",
+        "active": true
+    },
+    "1000DMRO1612": {
+        "atco_code": "1000DMRO1612",
+        "naptan_code": "dbsdtgjm",
+        "common_name": "Upper Marehay Road",
+        "name": "Upper Marehay Road",
+        "long_name": "Upper Marehay Road (Adj)",
+        "location": [
+            -1.4056772726815183,
+            53.03303431948284
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-03-02T00:00:00Z",
+        "active": true
+    },
+    "1000DRMP0190": {
+        "atco_code": "1000DRMP0190",
+        "naptan_code": "dbsawmdm",
+        "common_name": "Market Place",
+        "name": "Ripley Market Place",
+        "long_name": "Ripley, outside Market Place",
+        "location": [
+            -1.4072582407357548,
+            53.05041839268285
+        ],
+        "indicator": "Outside",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2009-03-04T00:00:00Z",
+        "active": true
+    },
+    "1000DSDR4301": {
+        "atco_code": "1000DSDR4301",
+        "naptan_code": "dbsdmdat",
+        "common_name": "Church",
+        "name": "Swanwick Church",
+        "long_name": "Swanwick, opposite Church",
+        "location": [
+            -1.3986331756304686,
+            53.07417854780858
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "1000DLSR4311": {
+        "atco_code": "1000DLSR4311",
+        "naptan_code": "dbsatpaw",
+        "common_name": "Bridle Lane",
+        "name": "Leabrooks Bridle Lane",
+        "long_name": "Leabrooks, adjacent to Bridle Lane",
+        "location": [
+            -1.374672613016932,
+            53.075484391621885
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "E",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-02-25T00:00:00Z",
+        "active": true
+    },
+    "1000DSNR4315": {
+        "atco_code": "1000DSNR4315",
+        "naptan_code": "dbsdjamd",
+        "common_name": "High Street",
+        "name": "Somercotes High Street",
+        "long_name": "Somercotes, adjacent to High Street",
+        "location": [
+            -1.3714765098357184,
+            53.08175999786082
+        ],
+        "indicator": "adj",
+        "icon": null,
+        "bearing": "NW",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2014-07-29T16:34:28+01:00",
+        "active": true
+    },
+    "1000DAHS6099": {
+        "atco_code": "1000DAHS6099",
+        "naptan_code": "dbsgpgmp",
+        "common_name": "High Street Coach Stop",
+        "name": "Alfreton High Street Coach Stop",
+        "long_name": "Alfreton, at High Street Coach Stop",
+        "location": [
+            -1.3885724251411353,
+            53.09740028114311
+        ],
+        "indicator": "at",
+        "icon": null,
+        "bearing": "W",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2024-10-07T09:40:20.848000+01:00",
+        "active": true
+    },
+    "1000DSNC7033": {
+        "atco_code": "1000DSNC7033",
+        "naptan_code": "dbsdapjw",
+        "common_name": "Market Street Junction",
+        "name": "South Normanton Market Street Junction",
+        "long_name": "South Normanton, opposite Market Street Junction",
+        "location": [
+            -1.343851455373378,
+            53.100856816140606
+        ],
+        "indicator": "opp",
+        "icon": null,
+        "bearing": "N",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2010-01-19T00:00:00Z",
+        "active": true
+    },
+    "1000DKTB4214": {
+        "atco_code": "1000DKTB4214",
+        "naptan_code": "dbsdwdpm",
+        "common_name": "Danesby Crescent",
+        "name": "Kilburn Danesby Crescent",
+        "long_name": "Kilburn, opposite Danesby Crescent",
+        "location": [
+            -1.4358528242710713,
+            53.01293739832863
+        ],
+        "indicator": "Opp",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2016-01-26T07:30:28Z",
+        "active": true
+    },
+    "1000DAMR2128": {
+        "atco_code": "1000DAMR2128",
+        "naptan_code": "dbsagata",
+        "common_name": "Railway Station",
+        "name": "Alfreton Railway Station",
+        "long_name": "Alfreton, adjacent to Railway Station",
+        "location": [
+            -1.3708110206096735,
+            53.09976180385825
+        ],
+        "indicator": "Adj",
+        "icon": null,
+        "bearing": "NE",
+        "heading": null,
+        "stop_type": "BCT",
+        "bus_stop_type": "MKD",
+        "created_at": "2006-06-26T00:00:00+01:00",
+        "modified_at": "2008-12-02T00:00:00Z",
+        "active": true
+    },
+    "1090BSTN22": {
+        "atco_code": "1090BSTN22",
+        "naptan_code": "dbyptmja",
+        "common_name": "Bus Station",
+        "name": "Derby Bus Station",
+        "long_name": "Derby Bus Station (Bay 22)",
+        "location": [
+            -1.4711378059515194,
+            52.922226440415685
+        ],
+        "indicator": "Bay 22",
+        "icon": "22",
+        "bearing": "",
+        "heading": null,
+        "stop_type": "BCS",
+        "bus_stop_type": "",
+        "created_at": "2009-11-16T00:00:00Z",
+        "modified_at": "2009-11-16T00:00:00Z",
+        "active": true
+    }
+}

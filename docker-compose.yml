@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: bus-dashboard-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount the local _data directory into the container
+      - ./backend/_data:/app/_data
+    environment:
+      # You can add environment variables here if needed
+      # e.g., API_KEY: your_api_key
+      FLASK_APP: app.py
+    # If your backend relies on other services (e.g., a database),
+    # you'd add depends_on here.
+    restart: unless-stopped # Always restart unless explicitly stopped
+
+  frontend:
+    build: ./frontend
+    container_name: bus-dashboard-frontend
+    ports:
+      - "80:80" # Map host port 80 to container port 80 (Nginx default)
+    depends_on:
+      - backend # Frontend depends on backend being up
+    # If the frontend needs to know the backend's internal network name,
+    # you'd set environment variables. For now, it's hardcoded to 'backend' (service name).
+    # For production, you might want to adjust the fetch URL in Vue to 'http://backend:8000/departures'
+    # when deployed with Docker Compose, but keep localhost for local `npm run dev`.
+    restart: unless-stopped

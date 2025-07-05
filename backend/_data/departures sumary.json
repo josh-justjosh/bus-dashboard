@@ -1,0 +1,308 @@
+[
+    {
+        "debug": "",
+        "destination": "Repton, The Cross",
+        "expected": "23:17",
+        "expected_dt": "2025-07-05 23:17:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "23:17",
+        "scheduled_dt": "2025-07-05 23:17:00+00:00",
+        "service": "V3",
+        "stop": {
+            "bay": null,
+            "icon": "B2",
+            "indicator": "Stop B2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Burton upon Trent, Railway Station",
+        "expected": "",
+        "expected_dt": "2025-07-05 23:17:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "23:17",
+        "scheduled_dt": "2025-07-05 23:17:00+00:00",
+        "service": "V1",
+        "stop": {
+            "bay": null,
+            "icon": "B2",
+            "indicator": "Stop B2"
+        },
+        "via": "Tutbury"
+    },
+    {
+        "debug": "",
+        "destination": "Mackworth Estate, Henley Green",
+        "expected": null,
+        "expected_dt": "2025-07-05 23:21:00+00:00",
+        "notes": null,
+        "operator": "Arriva Derby",
+        "scheduled": "23:21",
+        "scheduled_dt": "2025-07-05 23:21:00+00:00",
+        "service": "8",
+        "stop": {
+            "bay": null,
+            "icon": "B4",
+            "indicator": "Stop B4"
+        },
+        "via": "Slack Lane"
+    },
+    {
+        "debug": "",
+        "destination": "Alfreton Bus Station",
+        "expected": null,
+        "expected_dt": "2025-07-05 23:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "23:30",
+        "scheduled_dt": "2025-07-05 23:30:00+00:00",
+        "service": "9.1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Allestree",
+        "expected": "",
+        "expected_dt": "2025-07-05 23:31:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "23:31",
+        "scheduled_dt": "2025-07-05 23:31:00+00:00",
+        "service": "TA",
+        "stop": {
+            "bay": null,
+            "icon": "B2",
+            "indicator": "Stop B2"
+        },
+        "via": "University, then the Blue Route"
+    },
+    {
+        "debug": "",
+        "destination": "Ashbourne, Bus Station",
+        "expected": null,
+        "expected_dt": "2025-07-05 23:47:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "23:47",
+        "scheduled_dt": "2025-07-05 23:47:00+00:00",
+        "service": "SW",
+        "stop": {
+            "bay": null,
+            "icon": "B3",
+            "indicator": "Stop B3"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Allestree",
+        "expected": "",
+        "expected_dt": "2025-07-06 00:01:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "00:01",
+        "scheduled_dt": "2025-07-06 00:01:00+00:00",
+        "service": "TA",
+        "stop": {
+            "bay": null,
+            "icon": "B2",
+            "indicator": "Stop B2"
+        },
+        "via": "University, then the Green Route"
+    },
+    {
+        "debug": "",
+        "destination": "Heanor, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 00:05:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "00:05",
+        "scheduled_dt": "2025-07-06 00:05:00+00:00",
+        "service": "H1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Burton upon Trent, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 00:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "00:30",
+        "scheduled_dt": "2025-07-06 00:30:00+00:00",
+        "service": "X38",
+        "stop": {
+            "bay": null,
+            "icon": "B4",
+            "indicator": "Stop B4"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Ashbourne, Lodge Avenue",
+        "expected": null,
+        "expected_dt": "2025-07-06 00:31:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "00:31",
+        "scheduled_dt": "2025-07-06 00:31:00+00:00",
+        "service": "SW",
+        "stop": {
+            "bay": null,
+            "icon": "B3",
+            "indicator": "Stop B3"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Alfreton Bus Station",
+        "expected": null,
+        "expected_dt": "2025-07-06 01:00:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "01:00",
+        "scheduled_dt": "2025-07-06 01:00:00+00:00",
+        "service": "9.1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Heanor, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 01:05:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "01:05",
+        "scheduled_dt": "2025-07-06 01:05:00+00:00",
+        "service": "H1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Burton upon Trent, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 01:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "01:30",
+        "scheduled_dt": "2025-07-06 01:30:00+00:00",
+        "service": "X38",
+        "stop": {
+            "bay": null,
+            "icon": "B4",
+            "indicator": "Stop B4"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Heanor, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 02:05:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "02:05",
+        "scheduled_dt": "2025-07-06 02:05:00+00:00",
+        "service": "H1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Burton upon Trent, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 02:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "02:30",
+        "scheduled_dt": "2025-07-06 02:30:00+00:00",
+        "service": "X38",
+        "stop": {
+            "bay": null,
+            "icon": "B4",
+            "indicator": "Stop B4"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "South Normanton, Market Street Junction",
+        "expected": null,
+        "expected_dt": "2025-07-06 02:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "02:30",
+        "scheduled_dt": "2025-07-06 02:30:00+00:00",
+        "service": "9.1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Langley Mill, trentbarton Garage",
+        "expected": null,
+        "expected_dt": "2025-07-06 03:05:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "03:05",
+        "scheduled_dt": "2025-07-06 03:05:00+00:00",
+        "service": "H1",
+        "stop": {
+            "bay": null,
+            "icon": "C2",
+            "indicator": "Stop C2"
+        },
+        "via": null
+    },
+    {
+        "debug": "",
+        "destination": "Burton upon Trent, Market Place",
+        "expected": null,
+        "expected_dt": "2025-07-06 03:30:00+00:00",
+        "notes": null,
+        "operator": "trentbarton",
+        "scheduled": "03:30",
+        "scheduled_dt": "2025-07-06 03:30:00+00:00",
+        "service": "X38",
+        "stop": {
+            "bay": null,
+            "icon": "B4",
+            "indicator": "Stop B4"
+        },
+        "via": null
+    }
+]
